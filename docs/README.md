@@ -4,7 +4,11 @@
 - Authentication
 - Authorization
 - Private Messaging
-- Forums (aka Circles)
+
+### Forums (aka Circles)
+
+Our analog to forums are the Circles on the platform. These are the place where users are able to start and participate in peer to peer discussions about any topic.
+
 - Forums Stream (aka Circle Feed)
 - Community Members Browser
 - Private User Profiles
