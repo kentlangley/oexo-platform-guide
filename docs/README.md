@@ -19,6 +19,8 @@
 	- Circles Stream (aka Circle Feed) - Display the lastest 25 updated circle posts from all subscribed circles
 	- Join Custom Circles
 	- Leave Custom Circles
+	![activatestaking](/images/leave-circle.gif)
+
 	- Individual Circle Search (non-global)
 
 ## Marketplace
