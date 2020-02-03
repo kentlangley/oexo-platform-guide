@@ -53,3 +53,8 @@
 - Accredible certificates integration
 - Typeform integration
 - Vimeo integration
+
+## Just Testing
+- Activate Staking
+![activatestaking](/images/activate-staking.gif)
+
