@@ -2,7 +2,7 @@
 
 ## Community
 - Authentication
-- Authorization
+- Authorization - how you get access to stuff
 - Private Messaging
 - Community Members Browse
 - Community search/filtering function
